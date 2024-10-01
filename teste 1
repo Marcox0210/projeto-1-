@@ -1,0 +1,6 @@
+nome = input('Qual é seu nome ?')
+print('Olá',nome,',é um prazer te conhecer!')
+idade = input('pra gente começar, me diz a sua idade ')
+peso = input('Ótimo, agora me fala o seu peso ')
+altura = input('A ultima pergunta, qual é a sua altura ? ')
+print('Execelente',nome,',deixa eu ver se entendi, voce tem',idade,'anos, pesa',peso,'kg, e mede',altura,'cm?')
